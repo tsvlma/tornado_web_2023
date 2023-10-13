@@ -17,7 +17,7 @@
     gap: 20px; 
     font-size: 70%;
 }
-.pll{
+.pinned{
     font-family: monospace;
     color: rgb(96, 96, 96);
 }
@@ -25,4 +25,34 @@
 .section-header {
     display: flex;
     justify-content: space-between;
+}
+.lulu{
+    color:rgb(99, 119, 119) ;
+}
+.lolo{
+    color: rgb(82, 142, 231);
+}
+.lulu2{
+    color:rgb(99, 119, 119) ;
+}
+.lele{
+    color: aliceblue;
+    background-color: rgb(97, 245, 97);
+    width: 40px;
+    text-align: center;
+}
+.lala{
+    color: aliceblue;
+    background-color: rgb(59, 130, 251);
+    width: 60px;
+    text-align: center;
+}
+.container{
+  display: flex;
+  gap: 5px;
+  font-size: 90%;
+}
+.pinned2{
+    font-family: monospace;
+    color: rgb(96, 96, 96);
 }
