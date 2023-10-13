@@ -1,0 +1,28 @@
+#page {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.oll{
+    background-color: rgb(39, 42, 52);
+  color: aliceblue;
+  text-align: center;
+}
+.tolp1{
+    color: rgb(99, 119, 119);
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    font-size: 70%;
+}
+.pll{
+    font-family: monospace;
+    color: rgb(96, 96, 96);
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+}
