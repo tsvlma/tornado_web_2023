@@ -29,14 +29,22 @@ header {
     justify-content: space-between;
     padding: 20px 71.5px;
 }
-.hhml{
+
+.hhml {
     text-align: center;
-    padding:200px ;
+    padding: 200px;
 }
+
+.but1 {
+    color: aliceblue;
+    background-color: rgb(33, 33, 131);
+}
+
 nav a {
     color: white;
     text-decoration: none;
 }
+
 .slide {
     background-image: url('../img/div.slide.png');
     background-size: cover;
@@ -45,10 +53,70 @@ nav a {
     height: 486px;
 
 }
-.grcg{
-    text-align: center;
-}
-.hairtsag{
+
+.hairtsag {
     display: flex;
     flex-direction: row;
+}
+
+.yul {
+    padding: 40px;
+
+
+}
+
+.sec1 {
+    color: rgb(107, 118, 128);
+}
+
+.sec2 {
+    color: #fff;
+    background-color: rgb(33, 33, 131);
+}
+
+
+
+
+#section-service-cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.service-card {
+    width: 402px;
+}
+
+main section #section2 .service-card .card-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.grcg {
+    text-align: center;
+}
+
+.txt {
+    color: #013560;
+    text-align: center;
+}
+
+.michph {
+    border-radius: 100px;
+}
+
+.michaeljordan {
+    width: 314px;
+    text-align: center;
+}
+
+.michaeljordan img {
+    width: 45px;
+    height: 45px;
+    border-radius: 22.5px;
+    border: 1px solid #7BB7C6;
+}
+
+.km {
+    color: #7BB7C6;
 }
