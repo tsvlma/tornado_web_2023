@@ -1,0 +1,11 @@
+
+.ehlel{
+    background-color:rgb(124, 23, 23) ;
+    color: aliceblue;
+    display: flex;flex-direction: row;
+    gap: 50px;
+}
+.zes{
+   display: flex;flex-direction: row;
+   gap: 10px; 
+}
