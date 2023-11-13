@@ -120,3 +120,55 @@ main section #section2 .service-card .card-content {
 .km {
     color: #7BB7C6;
 }
+
+#lolo {
+    display: inline-flex;
+    padding: 30px 71.5px;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 20px;
+
+
+}
+
+.zurag img {
+    width: 18px;
+    height: 18px;
+}
+
+#section4 {
+    width: 643px;
+    height: 534px;
+
+
+
+}
+
+.section4hrtsg1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.section4hrtsg1 input {
+    border: 0;
+    border-bottom: 1px solid #333;
+    background: #FFF;
+    padding: 12px 5px 13px 5px;
+
+}
+
+.section4hrtsg1 textarea {
+    width: 603px;
+    height: 200px;
+}
+
+.dood {
+
+    border: 0;
+    color: white;
+    background-color: rgba(1, 53, 96, 1);
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    justify-content: flex-start;
+}
