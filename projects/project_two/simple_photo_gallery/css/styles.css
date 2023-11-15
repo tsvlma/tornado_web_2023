@@ -1,0 +1,73 @@
+#page{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.gall1{
+    background-color: rgb(33, 32, 32);
+    width: 900px;
+}
+.gall1{
+    text-align: center;
+}
+.gall1{
+    color: aliceblue;
+}
+
+.zurag1{
+    width: 200px;
+    height: 300px;
+    border: 1px;
+    margin:10px;
+}
+.zurag2{
+    width: 200px;
+    height: 300px;
+    border: 1px;
+    margin:10px;
+}
+.zurag3{
+    width: 200px;
+    height: 300px;
+    border: 1px;
+    margin:10px;
+}
+.zurag4{
+    width: 200px;
+    height: 300px;
+    border: 1px;
+    margin:10px;
+}
+.zurag5 {
+    width: 200px;
+    height: 300px;
+    border: 1px;
+    margin:10px;
+}
+.zurag6 {
+    width: 200px;
+    height: 300px;
+    border: 1px;
+    margin:10px;
+}
+.zurag7 {
+    width: 200px;
+    height: 300px;
+    border: 1px;
+    margin:10px;
+}
+footer{
+    background-color: rgb(33, 32, 32);
+    height: 200px;
+
+    text-align: center;
+    color: aliceblue;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 10%;
+}
+
+

@@ -1,0 +1,128 @@
+#page {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 30px 50px;
+}
+
+.oll {
+    background-color: rgb(39, 42, 52);
+    color: aliceblue;
+    text-align: center;
+}
+
+.tolp1 {
+    color: rgb(99, 119, 119);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 70%;
+}
+
+.pinned {
+    font-family: monospace;
+    color: rgb(96, 96, 96);
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lulu {
+    color: rgb(99, 119, 119);
+}
+
+.lolo {
+    color: rgb(82, 142, 231);
+}
+
+.lulu2 {
+    color: rgb(99, 119, 119);
+}
+
+.lele {
+    color: aliceblue;
+    background-color: rgb(97, 245, 97);
+    width: 40px;
+    text-align: center;
+}
+
+.lala {
+    color: aliceblue;
+    background-color: rgb(59, 130, 251);
+    width: 60px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    gap: 5px;
+    font-size: 90%;
+}
+
+.pinned2 {
+    font-family: monospace;
+    color: rgb(96, 96, 96);
+}
+
+.section-header-right {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.lolo2 {
+    color: rgb(82, 142, 231);
+}
+
+.lele2 {
+    color: aliceblue;
+    background-color: red;
+    width: 75px;
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    gap: 5px;
+    font-size: 90%;
+}
+
+.lele3 {
+    background-color: rgb(97, 96, 96);
+    color: aliceblue;
+}
+
+footer {
+    background-color: rgb(43, 42, 42);
+    color: aliceblue;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.photos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.photo1, .photo2 {
+    height: 330px;
+}
+.hairtsag1, .hairtsag2 {
+  position: relative;
+}
+
+.text {
+    color: aliceblue;
+    position: absolute;
+    left: 30px;
+    top: 280px;
+}
+
+
+

@@ -1,0 +1,58 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: navy;
+}
+
+p {
+    color: #fb7d9e
+}
+
+strong {
+    color: blueviolet
+}
+
+.address {
+    background-color: blue;
+    color: aliceblue
+}
+
+.vv {
+    background-color: black;
+}
+
+thead {
+    background-color: cornflowerblue;
+}
+
+img {
+    background-color: darkgreen;
+}
+
+body {
+    background-color:antiquewhite
+}
+.rr {
+    background-color:#fb7d9e;
+    width: 600;
+    height: 300;
+}
+.circle {
+    background-color: rgb(79, 57, 28);
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+
+} 
+.hllo{
+    background-color: aqua;
+    width: 150;
+    height: 150;
+}
+.mlml {
+    background-color: brown;
+    height: 50;
+    width: 500;
+}

@@ -1,0 +1,174 @@
+#page {
+    max-width: 1430px;
+    margin: 0 auto;
+}
+
+header {
+    color: white;
+    background-image: url('../img/biz-header.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 486px;
+}
+
+.nmr {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#bannar {
+    text-align: center;
+    position: fixed;
+}
+
+#htm {
+    display: flex;
+    background-color: rgb(15, 15, 52);
+    justify-content: space-between;
+    padding: 20px 71.5px;
+}
+
+.hhml {
+    text-align: center;
+    padding: 200px;
+}
+
+.but1 {
+    color: aliceblue;
+    background-color: rgb(33, 33, 131);
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.slide {
+    background-image: url('../img/div.slide.png');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 486px;
+
+}
+
+.hairtsag {
+    display: flex;
+    flex-direction: row;
+}
+
+.yul {
+    padding: 40px;
+
+
+}
+
+.sec1 {
+    color: rgb(107, 118, 128);
+}
+
+.sec2 {
+    color: #fff;
+    background-color: rgb(33, 33, 131);
+}
+
+
+
+
+#section-service-cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.service-card {
+    width: 402px;
+}
+
+main section #section2 .service-card .card-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.grcg {
+    text-align: center;
+}
+
+.txt {
+    color: #013560;
+    text-align: center;
+}
+
+.michph {
+    border-radius: 100px;
+}
+
+.michaeljordan {
+    width: 314px;
+    text-align: center;
+}
+
+.michaeljordan img {
+    width: 45px;
+    height: 45px;
+    border-radius: 22.5px;
+    border: 1px solid #7BB7C6;
+}
+
+.km {
+    color: #7BB7C6;
+}
+
+#lolo {
+    display: inline-flex;
+    padding: 30px 71.5px;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 20px;
+
+
+}
+
+.zurag img {
+    width: 18px;
+    height: 18px;
+}
+
+#section4 {
+    width: 643px;
+    height: 534px;
+
+
+
+}
+
+.section4hrtsg1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.section4hrtsg1 input {
+    border: 0;
+    border-bottom: 1px solid #333;
+    background: #FFF;
+    padding: 12px 5px 13px 5px;
+
+}
+
+.section4hrtsg1 textarea {
+    width: 603px;
+    height: 200px;
+}
+
+.dood {
+
+    border: 0;
+    color: white;
+    background-color: rgba(1, 53, 96, 1);
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    justify-content: flex-start;
+}
