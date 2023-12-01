@@ -8,7 +8,7 @@ let delaydHello = new Promise((resolve, reject)=> {
         
      } else{
             reject('Promise is rejected. ');
-)}
+)};
 
 
 console.log (delaydHello);
