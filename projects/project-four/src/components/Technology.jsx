@@ -1,5 +1,5 @@
 import React from "react";
-const  Technology= ({img, name, title, like, likes, facebook, profile, date }) => {
+const Technology= ({img, name, title, like, likes, facebook, profile, date }) => {
     return (
         <div className=" ">
            <img src={img} alt="" />
@@ -23,4 +23,4 @@ const  Technology= ({img, name, title, like, likes, facebook, profile, date }) =
     )
 }
 
-export default Technology ;
+export default Technology;
