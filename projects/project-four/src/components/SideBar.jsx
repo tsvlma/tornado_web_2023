@@ -14,10 +14,12 @@ export default function SideBar() {
       </div>
 
       <div className="flex flex-col mt-6">
+
         <div className="flex flex-col">
           {menus.map((m) => (
             <MenuCategory title={m.title} children={m.children} />
           ))}
+
         </div>
       </div>
     </div>
