@@ -1,29 +1,16 @@
-import { lifestyle } from "../data/data";
-import LifestyleCard from "./LifestyleCard"
+import { blogs } from "../data/data";
+import CardsContainer from "./CardsContainer";
 
 
 export default function Main() {
 
-    const lifestyles = lifestyle.map((card) => {
-        return (
-            <LifestyleCard
-                img={card.img}
-                title={card.title}
-                profile={card.profile}
-                name={card.name}
-                date={card.date}
-                like={card.like}
-                likes={card.likes}
-                facebook={card.facebook}
-            />
-        );
-    });
+    const cardsContainer = blogs.map((blog) => 
+    <CardsContainer title={blog.title} children={blog.children} />);
 
     return (
-        <div className=" h-[80%]  ">
+        <div className="  ">
 
-            LIFESTYLE
-            {lifestyles}
+            {cardsContainer}
 
         </div>
     );
